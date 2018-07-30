@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Unicode Font
+## Notes: Enables you to see Chinese, Japanese and other languages in game
+## Author: Whitetooth
+UnicodeFont.lua
