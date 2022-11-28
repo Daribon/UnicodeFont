@@ -6,7 +6,8 @@ Based on UnicodeFont 1.4.1, updated to use Nowar War-Sans-TT font and addon chan
 
 Changelog:
 1.4.2:
-- Changed from WenQuanYi Zen Hei to Nowar War-Sans-TT
+- Changed from WenQuanYi Zen Hei to Nowar War-Sans-TT.
+
 Both Chinese and English text didn't look good enough with WenQuanYi Zen Hei.
 1.4.1b
 - Updated WenQuanYi Zen Hei to version 0.9.45
