@@ -1,9 +1,9 @@
--- version: 1.4.1b
+-- version: 1.4.2
 -- code inspired by CLEARFONT BY KIRKBURN
 
 UnicodeFontFrame = CreateFrame("Frame", "UnicodeFontFrame")
 
-UNICODEFONT = "Interface\\AddOns\\UnicodeFont\\wqy-zenhei.ttf"
+UNICODEFONT = "Interface\\AddOns\\UnicodeFont\\WarSansTT-Bliz-500.ttf"
 
 -- Font scale - e.g. if you want all fonts at 80% scale, change '1' to '0.8'
 local SCALE = 1

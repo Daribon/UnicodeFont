@@ -1,7 +1,15 @@
 # UnicodeFont
-Addon to view chinese, russian, english, japanese, korean and a bunch of other languages. For information on what languages are supported, view the FontLicense file.
+Addon to read Chinese, Russian, English, Japanese, Korean, German, French, Italian, Spanish, Portuguese and a bunch of other languages.
+Say bye to empty text windows.
 
-Based on UnicodeFont 1.4.1, updated to support latest WenQuanYi Zen Hei (0.9.45) font and addon changed to affect chat only.
+Based on UnicodeFont 1.4.1, updated to use Nowar War-Sans-TT font and addon changed to affect chat only.
+
+Changelog:
+1.4.2:
+- Changed from WenQuanYi Zen Hei to Nowar War-Sans-TT
+Both Chinese and English text didn't look good enough with WenQuanYi Zen Hei.
+1.4.1b
+- Updated WenQuanYi Zen Hei to version 0.9.45
 
 Keep in mind this addon will only make you able to read the supported languages.
 If you are interesting in writting in chinese, russian etc, download Locale Emulator and run Wow.exe with it.
