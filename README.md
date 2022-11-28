@@ -25,6 +25,5 @@ For WOTLK, open UnicodeFont.toc and change the following: Interface: 11200 to In
 Rename UnicodeFont-master to UnicodeFont and drag it into your addon folder.
 Start up WoW and view some non latin characters, it should now display correctly in chat and in chat bubbles.
 
-![Image](https://i.imgur.com/rsfdAtI.png)
-![Image](https://i.imgur.com/J3qUNv0.png)
-![Image](https://i.imgur.com/CQJIZdF.png)
+![Image](https://i.imgur.com/dsADiDx.png)
+![Image](https://i.imgur.com/53cNNmb.png)
