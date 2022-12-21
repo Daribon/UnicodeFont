@@ -5,11 +5,13 @@ Say bye to empty text windows.
 Based on UnicodeFont 1.4.1, updated to use Nowar War-Sans-TT font and addon changed to affect chat only.
 
 Changelog:
+
 1.4.2:
 - Changed from WenQuanYi Zen Hei to Nowar War-Sans-TT.
 
 Both Chinese and English text didn't look good enough with WenQuanYi Zen Hei.
-1.4.1b
+
+1.4.1b:
 - Updated WenQuanYi Zen Hei to version 0.9.45
 
 Keep in mind this addon will only make you able to read the supported languages.
