@@ -25,8 +25,9 @@ For TBC, open UnicodeFont.toc and change the following: Interface: 11200 to Inte
 For WOTLK, open UnicodeFont.toc and change the following: Interface: 11200 to Interface: 30300
 
 ### Setup
-Rename UnicodeFont-master to UnicodeFont and drag it into your addon folder.
-Start up WoW and view some non latin characters, it should now display correctly in chat and in chat bubbles.
+ 1. Press the green code button and click download zip
+ 2. Rename UnicodeFont-master to UnicodeFont and drag it into your addon folder
+ 3. Start up WoW and view some non latin characters, it should now display correctly in chat and in chat bubbles.
 
 ![Image](https://i.imgur.com/dsADiDx.png)
 ![Image](https://i.imgur.com/53cNNmb.png)
