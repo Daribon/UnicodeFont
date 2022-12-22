@@ -1,11 +1,8 @@
-Copyright © 2018—2020 Cyano Hao and Nowar Typeface, with
-Reserved Font Name “Nowar”, “Новар”, “Νοωαρ”, “有爱”, and “有愛”.
+Copyright © 2018—2020 Cyano Hao and Nowar Typeface, with reserved font name “Nowar”, “有爱”, and “有愛”.
 
 Portions Copyright 2015 Google Inc.
 
-Portions © 2014-2019 Adobe (http://www.adobe.com/), with
-Reserved Font Name 'Source'. Source is a trademark of Adobe in the
-United States and/or other countries.
+Portions © 2014-2019 Adobe (http://www.adobe.com/).
 
 This Font Software is licensed under the SIL Open Font License,
 Version 1.1.
