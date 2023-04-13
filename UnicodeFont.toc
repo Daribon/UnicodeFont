@@ -1,5 +1,7 @@
 ## Interface: 11200
 ## Title: Unicode Font
+## Title-ruRU: Шрифт Unicode
 ## Notes: Enables you to see Chinese, Japanese and other languages in game
+## Notes-ruRU: Позволяет вам видеть китайский, японский и другие языки в игре
 ## Author: Whitetooth
 UnicodeFont.lua
