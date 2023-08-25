@@ -3,7 +3,7 @@
 
 UnicodeFontFrame = CreateFrame("Frame", "UnicodeFontFrame")
 
-UNICODEFONT = "Interface\\AddOns\\UnicodeFont\\WarSansTT-Bliz-500.ttf"
+UNICODEFONT = "Interface\\AddOns\\UnicodeFont\\narrowwarsans.ttf"
 
 -- Font scale - e.g. if you want all fonts at 80% scale, change '1' to '0.8'
 local SCALE = 1
